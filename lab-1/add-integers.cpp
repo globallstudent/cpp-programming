@@ -1,19 +1,28 @@
 #include <iostream>
 using namespace std;
 
+class Add {
+	public:
+		int sum(int a, int b) {
+			return a + b;
+		}
+
+};
 int main()
 {
-    int num1, num2, sum;
+   
+	Add add;
 
-    cout << "Enter a: ";
-    cin >> num1;
-
-    cout << "Enter b: ";
-    cin >> num2;
-
-    sum = num1 + num2;
-    cout << sum << endl;
-
-    return 0;
+	int num1, num2, sum;
+	cout << "Enter a: ";
+	cin >> num1;
+	
+	cout << "Enter b: ";
+	cin >> num2;
+	
+	int result = add.sum(num1, num2);
+	cout << "Sum: " << result << endl; 
+	
+	return 0;
 
 }
