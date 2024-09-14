@@ -1,3 +1,12 @@
+/*
+
+Exercise 3. Write a program that generates the following output:
+10
+20
+19
+
+*/
+
 #include <iostream>
 using namespace std;
 
