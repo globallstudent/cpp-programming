@@ -1,0 +1,3 @@
+/home/globalstudent/Projects/Programming/cpp-programming/dsprep/cmake-build-debug/CMakeFiles/dsprep.dir
+/home/globalstudent/Projects/Programming/cpp-programming/dsprep/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/globalstudent/Projects/Programming/cpp-programming/dsprep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
